@@ -1,2 +1,2 @@
 print("Hello world!")
-print("Hello from logging")
+print("Hello once again")
